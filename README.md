@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-I'm Omar, a Software Engineer specializing in Full Stack Web Development. I am passionate about both frontend and backend Web Development with a small preference on the Backend Side. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/omar-camacho-aa01b3133/) or reach out to me via <a href='mailto: ocamacho812@gmail.com'>email</a>!
+I'm Omar, a Software Engineer specializing in Full Stack Developer with a passion for the Backend side of web development!
+
+I have experience with React, Redux, Ruby on Rails, Node.js, Express, MongoDB, and Mongoose. So far my favorite project has been my Discord clone - Discable. Being able to tackle a complex project and being able to learn about ActionCable and Webscokets to create live updating features such as messages, friends, and channel creation was one of the funest parts of the entire thing. Seeing these applications come together and work seemlessly is always super fulfilling and is one of the main reasons I wanted to become a web developer.
+
+Prior to transitioning to Web Development I was a Technical Recruiter at an Aerospace startup where I was mainly recruiting various types of engineers to help build satellites to improve internet access across the world. I loved my time there as I was able to work with a great team and meet various types of individuals from different backgrounds which gave me so much perspective of how to effectively communicate and collaborate with others. 
+
+I noticed that there was a vasly underrepresented amount of minority candidates that were in the Engineering space and now I have the opportunity to help change that by becoming a Software Engineer and helping others find a path towards web development!
+
+My other passions outside of coding include soccer, fitness, watching movies, and dogs.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/omar-camacho-aa01b3133/) or reach out to me via <a href='mailto: ocamacho812@gmail.com'>email</a>!
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
