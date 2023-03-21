@@ -4,6 +4,8 @@ I'm Omar, a Software Engineer specializing in Full Stack Web Development. I am p
 
 <a href='#'><img align='center' height='200px' src='https://github-readme-stats.vercel.app/api?username=camachoo1&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark' /></a>
 
+<a href='#'><img align='center' height='200px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=camachoo1&count_private=true&include_all_commits=true&layout=compact&theme=github_dark' /></a>
+
 <!--
 **camachoo1/camachoo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
