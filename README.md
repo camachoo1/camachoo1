@@ -2,7 +2,7 @@
 
 I'm Omar, a Software Engineer specializing in Full Stack Web Development. I am passionate about both frontend and backend Web Development with a small preference on the Backend Side. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/omar-camacho-aa01b3133/) or reach out to me via <a href='mailto: ocamacho812@gmail.com'>email</a>!
 
-<a href='#'><img align='center' height='200px' src='https://github-readme-stats.vercel.app/api?username=camachoo1&count_private=true&include_all_commits=true&show_icons=true&theme-hithub_dark' /></a>
+<a href='#'><img align='center' height='200px' src='https://github-readme-stats.vercel.app/api?username=camachoo1&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark' /></a>
 
 <!--
 **camachoo1/camachoo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
