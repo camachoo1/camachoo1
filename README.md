@@ -2,7 +2,7 @@
 
 I'm Omar, a Software Engineer specializing in Full Stack Developer with a passion for the Backend side of web development!
 
-I have experience with React, Redux, Ruby on Rails, Node.js, Express, MongoDB, and Mongoose. So far my favorite project has been my Discord clone - Discable. Being able to tackle a complex project and being able to learn about ActionCable and Websockets to create live updating features such as messages, friends, and channel creation was one of the funest parts of the entire thing. Seeing these applications come together and work seemlessly is always super fulfilling and is one of the main reasons I wanted to become a web developer.
+I have experience with React, TypeScript, JavaScript, Redux, Ruby on Rails, Node.js, Express, MongoDB, and Mongoose. So far my favorite project has been my Discord clone - Discable. Being able to tackle a complex project and being able to learn about ActionCable and Websockets to create live updating features such as messages, friends, and channel creation was one of the funest parts of the entire thing. Seeing these applications come together and work seemlessly is always super fulfilling and is one of the main reasons I wanted to become a web developer.
 
 Prior to transitioning to Web Development I was a Technical Recruiter at an Aerospace startup where I was mainly recruiting various types of engineers to help build satellites to improve internet access across the world. I loved my time there as I was able to work with a great team and meet various types of individuals from different backgrounds which gave me so much perspective of how to effectively communicate and collaborate with others. 
 
