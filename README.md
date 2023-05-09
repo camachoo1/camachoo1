@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Omar, a Software Engineer specializing in Full Stack Developer with a passion for the Backend side of web development!
+I'm Omar, a Software Engineer specializing in Full Stack Developer with a passion for Backend web development!
 
 I have experience with React, TypeScript, JavaScript, Redux, Ruby on Rails, Node.js, Express, MongoDB, and Mongoose. So far my favorite project has been my Discord clone - Discable. Being able to tackle a complex project and being able to learn about ActionCable and Websockets to create live updating features such as messages, friends, and channel creation was one of the funest parts of the entire thing. Seeing these applications come together and work seemlessly is always super fulfilling and is one of the main reasons I wanted to become a web developer.
 
