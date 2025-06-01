@@ -26,7 +26,3 @@ Currently expanding backend capabilities with **Go** for high-performance API de
 
 **Teamify** - Team and bracket creator for tournament organizers. <br/>
 **Black Lotus** - Vacation Planner built with NextJS, Go, and PostgresQL.
-
----
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=camachoo1&theme=tokyonight&hide_border=false&show_icons=true&count_private=true)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camachoo1&theme=tokyonight&hide_border=false&layout=compact&count_private=true)
