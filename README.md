@@ -1,20 +1,32 @@
-# 💫 About Me:
-I'm Omar, a Software Engineer specializing in web applications with a passion for Backend development!<br><br>I have experience with React, TypeScript, JavaScript, Redux, Ruby on Rails, Node.js, Express, MongoDB, and Mongoose. So far my favorite project has been my Discord clone - Discable. Being able to tackle a complex project and being able to learn about ActionCable and Websockets to create live updating features such as messages, friends, and channel creation was one of the funest parts of the entire thing. Seeing these applications come together and work seemlessly is always super fulfilling and is one of the main reasons I wanted to become a web developer.<br><br>Prior to transitioning to Web Development I was a Technical Recruiter at an Aerospace startup where I was mainly recruiting various types of engineers to help build satellites to improve internet access across the world. I loved my time there as I was able to work with a great team and meet various types of individuals from different backgrounds which gave me so much perspective of how to effectively communicate and collaborate with others.<br><br>I noticed that there was a vasly underrepresented amount of minority candidates that were in the Engineering space and now I have the opportunity to help change that by becoming a Software Engineer and helping others find a path towards web development!<br><br>My other passions outside of coding include soccer, fitness, watching movies, and dogs.<br><br>Feel free to connect with me on LinkedIn or reach out to me via email!
+# 💻 Full-Stack Software Engineer
+**Specializing in modern web applications with expertise in React, TypeScript, and Node.js ecosystems**
 
+Currently expanding backend capabilities with **Go** for high-performance API development and microservices architecture.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-camacho-aa01b3133) 
+## 🛠️ Core Technologies
+**Frontend:** React • TypeScript • Next.js • Redux • Zustand • TailwindCSS <br/>
+**Backend:** Node.js • Express.js • Go • PostgreSQL • MongoDB • Mongoose <br/>
+**Auth & Security:** OAuth • JWT • Authentication Systems <br/>
+**Tools & Platforms:** Vercel • Vite • Postman • Jira • Confluence • Git
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![LuciaAuth](https://img.shields.io/badge/Lucia_Auth-%2523E34F26.svg?style=for-the-badge&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-%25232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-%2523607D8B.svg?style=for-the-badge&logo=zustand&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-%252347A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=camachoo1&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=camachoo1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+## 📈 Professional Focus
+- **Full-stack web application development** with emphasis on scalable architecture
+- **Backend API design** and database optimization
+- **Modern authentication systems** and security best practices
+- **Agile development** experience with project management tools
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=camachoo1&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![Teamify](https://github-readme-stats.vercel.app/api/pin/?username=camachoo1&repo=team-randomizer&theme=tokyonight)](https://github.com/camachoo1/team-randomizer)
+[![Black Lotus](https://github-readme-stats.vercel.app/api/pin/?username=camachoo1&repo=black-lotus&theme=tokyonight)](https://github.com/camachoo1/black-lotus)
+
+</div>
+
+**Teamify** - Team and bracket creator for tournament organizers.
+**Black Lotus** - Vacation Planner built with NextJS, Go, and PostgresQL.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=camachoo1&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=camachoo1&theme=tokyonight&hide_border=false&show_icons=true&count_private=true)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camachoo1&theme=tokyonight&hide_border=false&layout=compact&count_private=true)
