@@ -24,7 +24,7 @@ Currently expanding backend capabilities with **Go** for high-performance API de
 
 </div>
 
-**Teamify** - Team and bracket creator for tournament organizers.
+**Teamify** - Team and bracket creator for tournament organizers. <br/>
 **Black Lotus** - Vacation Planner built with NextJS, Go, and PostgresQL.
 
 ---
