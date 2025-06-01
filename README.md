@@ -19,7 +19,7 @@ Currently expanding backend capabilities with **Go** for high-performance API de
 
 <div align="center">
 
-[![Teamify](https://github-readme-stats.vercel.app/api/pin/?username=camachoo1&repo=team-randomizer&theme=tokyonight)](https://github.com/camachoo1/team-randomizer)
+[![Teamify](https://github-readme-stats.vercel.app/api/pin/?username=camachoo1&repo=Teamify&theme=tokyonight)](https://github.com/camachoo1/team-randomizer)
 [![Black Lotus](https://github-readme-stats.vercel.app/api/pin/?username=camachoo1&repo=black-lotus&theme=tokyonight)](https://github.com/camachoo1/black-lotus)
 
 </div>
